@@ -2,4 +2,6 @@
 
 > status do projeto : em desenvolvimento
 
-infomaçoes do projeto
+``
+node app js
+``
